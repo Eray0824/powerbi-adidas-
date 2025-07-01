@@ -4,7 +4,8 @@
 
 <!-- Placeholder for your main dashboard screenshot or a conceptual diagram -->
 <!-- Example: ![Adidas Sales Dashboard Overview](https://github.com/your-username/your-repo/assets/your-image-id/adidas_dashboard_overview.png ) -->
-![Adidas Sales Dashboard Overview Placeholder](https://via.placeholder.com/800x400?text=Adidas+Sales+Dashboard+Overview )
+![111](https://github.com/user-attachments/assets/5f34f9af-e15b-4c53-966d-67bc4d5c0daa)
+
 
 This project focuses on creating a comprehensive Power BI dashboard for Adidas sales data. The goal is to provide a clear, interactive overview of sales performance, identify key trends, and enable data-driven decision-making for various stakeholders, including sales managers, marketing teams, and regional leads. The dashboard addresses the need to quickly understand sales dynamics across different regions, product categories, sales methods, and time periods.
 
@@ -73,6 +74,3 @@ The Adidas Sales Dashboard provides immediate insights into:
 -   **Temporal Trends**: Observing monthly and quarterly sales patterns to inform forecasting and marketing campaigns.
 -   **Retailer Performance**: Analyzing sales contribution from different retailers (e.g., Adidas, Amazon, Foot Locker).
 
----
-
-## Project Structure
